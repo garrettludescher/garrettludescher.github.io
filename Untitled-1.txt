@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Welcome to Garrett's website</h1>
+<p>made by Garrett</p>
+</body>
+</html>
